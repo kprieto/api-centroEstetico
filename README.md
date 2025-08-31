@@ -20,5 +20,5 @@ Desarrollada con Node.js, Express y MongoDB Atlas.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/api-centro-estetico.git
-   cd api-centro-estetico
+   git clone https://github.com/kprieto/api-centroEstetico.git
+   cd api-centroEstetico
